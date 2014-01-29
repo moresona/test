@@ -3,4 +3,4 @@ test
 
 Test repository, please ignore :)
 
-Test 6.
+Test 7.
